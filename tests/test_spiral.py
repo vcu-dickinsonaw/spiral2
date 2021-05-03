@@ -2,7 +2,6 @@
 
 from spiral2 import homework
 
-
 def test_1():
     """  Test the 1 from the assignments. """
     assert homework.spiralize(1, 35) == 35
