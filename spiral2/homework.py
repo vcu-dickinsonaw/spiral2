@@ -14,4 +14,3 @@ def spiralize(size, n=1):
 
     return_value = n
     return return_value
-
